@@ -7,6 +7,16 @@
   background-color: rgb(222, 248, 248);
 }
 
+#galery img {
+  width: 300px;
+  height: 300px;
+  width: 100%;
+}
+
+#galery .row > * {
+  padding: 0;
+}
+
 section {
   padding-top: 4rem;
 }
